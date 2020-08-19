@@ -1,0 +1,491 @@
+.responsiveCal {
+ 
+position: relative; padding-bottom: 70%; height: 0; overflow: hidden; 
+ 
+}
+
+
+
+.responsiveCal2 {
+ 
+position: relative; padding-bottom: 70%; height: 0; overflow: hidden; 
+ 
+}
+
+
+ 
+.responsiveCal iframe {
+ 
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+ 
+}
+
+
+
+
+.responsiveCal2 iframe {
+ 
+position: absolute; top:0; left: 0; width: 100%; height: 59%;
+ 
+}
+
+
+
+
+.unselectable {
+position: absolute; float: left; clear: both; width: 100%; height: 350px; z-index: 0; left no-repeat;
+}
+
+
+.background-image .container{width: 1200px;}
+
+
+
+a {
+    color:#4A4A4A;
+}
+
+
+.widget {
+    margin-bottom: 1px;
+}
+
+
+
+
+h8 {
+	
+	font-weight: 300;
+    font-size: 13px;
+}
+
+
+
+#event
+{
+    background-color: #CDCDCD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#contact { display: block; width: auto; margin: 0; padding: 0px; border: none; overflow:hidden; padding-right:30px; }
+.blog #contact { margin-top:0px; margin-bottom:10px; padding-right:0px;  }
+#contact label { display: none; float: none; height:0px; }
+
+button::-moz-focus-inner,
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner {border:0;padding:0;margin:0;}
+
+input, textarea, select {  border:0; float:none; display:block; -webkit-appearance: none; margin-bottom:31px; color:#888;}
+.white-bg input, .white-bg textarea { border:1px solid #d8d8d8 !important; background:#f8f8f7 !important; }
+
+#contact textarea { resize: none;}
+input:focus, textarea:focus, select:focus {  color:#363636;  }
+input.submit { border:2px solid #2b2b2b ; color:#2b2b2b; padding: 13px 25px 14px; margin: 10px 0 0px 0; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:2px; display: inline-block; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; z-index:1; position:relative; -webkit-text-shadow:none !important; text-shadow:none !important; font-style:normal; font-family: "Raleway", "Open Sans", Arial, Helvetica, sans-serif; width:100%; background:none !important; }
+input.submit:hover { background:#2b2b2b !important; color:#fff; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
+
+
+input.submit2 { border:2px solid #2b2b2b ; color:#2b2b2b; padding: 13px 25px 14px; margin: 10px 0 0px 0; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:2px; display: inline-block; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; z-index:1; position:relative; -webkit-text-shadow:none !important; text-shadow:none !important; font-style:normal; font-family: "Raleway", "Open Sans", Arial, Helvetica, sans-serif; width:100%; background:none !important; }
+input.submit2:hover { background:#2b2b2b !important; color:#fff; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
+
+
+.hide {float:right; }
+#contact fieldset { padding-left:0px;}
+#message { margin: 0; padding: 0px; z-index:200; height:auto; width:100%; margin:15px 0 0 0; display:inline-block !important; font-size:14px; margin-top:20px; font-style:italic }
+#message2 { margin: 0; padding: 0px; z-index:200; height:auto; width:100%; margin:15px 0 0 0; display:inline-block !important; font-size:14px; margin-top:20px; font-style:italic }
+#success_page h4 {margin-top:-4px; font-size:16px; }
+#success_page2 h4 {margin-top:-4px; font-size:16px; }
+.error_message { display: block; height:auto; width:auto; color:#8a1f11; }
+.error_messag2 { display: block; height:auto; width:auto; color:#8a1f11; }
+.loader { display:none; }
+#comments {height: 205px; }
+input, textarea {
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+textarea, select, input:not([type="radio"]):not([type="checkbox"]):not([type="hidden"]):not([type="button"]):not([type="submit"]):not([type="image"]){
+  background-color: #fff;
+  border:1px solid #d8d8d8; 
+ 
+
+ 
+  margin-right: 0;
+  width: 100%;
+ /* font: 15px 'Inconsolata', Georgia, "Times New Roman", Times, serif;*/
+  padding: 17px 20px 18px 20px;
+ 
+}
+
+
+
+
+table.wikitable > tr > th, table.wikitable > tr > td, table.wikitable > * > tr > th, table.wikitable > * > tr > td {
+    border: 1px #aaa solid;
+
+
+}
+
+
+
+
+table.wikitable {
+    background: #00013f;
+    border-collapse: collapse;
+    border: 1px #33346d solid;
+    color: #D5D4D4;
+   
+}
+
+
+
+table.jquery-tablesorter th.headerSort {
+   
+    text-align: center; 	
+}
+
+.WikiaArticle .center * {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+.bg-grey-50-dance {
+    background-color: #fafafa !important;
+	background-image: url(../img/justdance.jpg);
+		  background-attachment: fixed;
+ 
+	
+}
+
+
+.forum .forum-group {
+    
+    line-height: 30px;
+}
+
+
+.post .post-header {
+    margin: auto;
+}
+
+.panel.panel-post .post .post-header {
+    margin-bottom: 0px;
+}
+
+
+.panel.panel-post {
+    margin-bottom: 10px;
+}
+
+.panel.panel-post .post {
+    padding: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Timetable */
+.btSoftRoundedButtons .bt_bb_timetable,
+.btHardRoundedButtons .bt_bb_timetable {
+    border-radius: 8px;
+    overflow: hidden;
+    }
+.bt_bb_timetable .bt_bb_timetable_title_flex {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    background-color: #3da3e6;
+    padding: 1em 1em;
+    font-family: "Montserrat";
+    color: #fff;
+    font-size: 1em;
+    }
+.bt_bb_timetable .bt_bb_timetable_title_flex .bt_bb_timetable_title {
+    -webkit-flex: 1 0 55%;
+    -ms-flex: 1 0 55%;
+    flex: 1 0 55%;
+    font-family: "Montserrat";
+    color: #fff;
+    font-weight: 600;
+
+    border-right: 1px solid rgba(255,255,255,.8);
+    padding-right: .5em;
+    }
+.bt_bb_timetable .bt_bb_timetable_title_flex .bt_bb_timetable_location {
+    -webkit-flex: 1 0 45%;
+    -ms-flex: 1 0 45%;
+    flex: 1 0 45%;
+    font-weight: 300;
+    text-align: right;
+    }
+.bt_bb_timetable .bt_bb_timetable_title_flex .bt_bb_timetable_location:before {
+    font-size: inherit;
+    font-family: FontAwesome;
+    content: "";
+    padding: 0 .0em;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    padding: .25em 1em;
+
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_day,
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time {
+
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_day {
+    -webkit-flex: 1 0 60%;
+    -ms-flex: 1 0 60%;
+    flex: 1 0 60%;
+  
+    color: #747474;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_day span {
+    display: block;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_day span.bt_bb_timetable_inner_desc {
+
+    font-size: .8em;
+    line-height: 1.5;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_day span:not(.bt_bb_timetable_inner_desc) {
+ 
+    font-weight: 450;
+	
+	font-size: 14px;
+	
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time {
+    -webkit-flex: 1 0 40%;
+    -ms-flex: 1 0 40%;
+    flex: 1 0 40%;
+    text-align: right;
+    color: #181818;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time span {
+    display: block;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time span.bt_bb_timetable_inner_location {
+ 
+    font-size: .8em;
+    line-height: 1.5;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time span.bt_bb_timetable_inner_location:before {
+    font-size: inherit;
+    font-family: FontAwesome;
+    content: "\f041";
+    padding: 0 .5em;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row .bt_bb_timetable_time span:not(.bt_bb_timetable_inner_location) {
+    
+    font-weight: 450;
+	
+	
+	font-size: 14px;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row.btToday {
+    background: white;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row.btToday .bt_bb_timetable_day,
+.bt_bb_timetable .bt_bb_timetable_inner_row.btToday .bt_bb_timetable_time {
+    opacity: 1;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row.btToday .bt_bb_timetable_day span:not(.bt_bb_timetable_inner_desc):before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    color: #00ffff;
+    padding-right: .4em;
+    opacity: 1;
+    }
+.bt_bb_timetable .bt_bb_timetable_inner_row.btToday .bt_bb_timetable_inner_desc {
+    padding-left: 1.8em;
+    }
+@media (max-width: 680px) {
+.bt_bb_timetable_title,
+.bt_bb_timetable_location {
+    -webkit-flex: 1 0 50% !important;
+    -ms-flex: 1 0 50% !important;
+    flex: 1 0 50% !important;
+    }
+.bt_bb_timetable_day,
+.bt_bb_timetable_time {
+    -webkit-flex: 1 0 50% !important;
+    -ms-flex: 1 0 50% !important;
+    flex: 1 0 50% !important;
+    }
+}
+
+@media (max-width: 580px) {
+.bt_bb_timetable_title_flex {
+    display: block !important;
+    }
+.bt_bb_timetable_title_flex .bt_bb_timetable_title {
+    width: 100% !important;
+    border-right: none !important;
+    }
+.bt_bb_timetable_title_flex .bt_bb_timetable_location {
+    width: 100% !important;
+    text-align: left !important;
+    }
+.bt_bb_timetable_title_flex .bt_bb_timetable_location:before {
+    padding: 0 .5em 0 0 !important;
+    }
+.bt_bb_timetable_inner_row {
+    display: block !important;
+    }
+.bt_bb_timetable_inner_row .bt_bb_timetable_day {
+    width: 100% !important;
+    }
+.bt_bb_timetable_inner_row .bt_bb_timetable_time {
+    width: 100% !important;
+    text-align: left !important;
+    }
+.bt_bb_timetable_inner_row .bt_bb_timetable_time span.bt_bb_timetable_inner_location:before {
+    padding: 0 .5em 0 0 !important;
+    }
+.bt_bb_timetable_inner_row.btToday .bt_bb_timetable_time span {
+    margin-left: 1.3em;
+    }
+.bt_bb_timetable_inner_row.btToday .bt_bb_timetable_time span.bt_bb_timetable_inner_location:before {
+    padding: 0 .5em !important;
+    }
+}
+
+
+.btSoftRoundedButtons .bt_bb_timetable, .btHardRoundedButtons .bt_bb_timetable {
+
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+
+
+.blue
+
+{
+	
+	color: #1ebaf6;
+	
+}
+
+
+
+kbd2{padding:2px 4px;font-size:90%;color:#fff;background-color:#FF7600DE;border-radius:3px;-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,.25);box-shadow:inset 0 -1px 0 rgba(0,0,0,.25)}
